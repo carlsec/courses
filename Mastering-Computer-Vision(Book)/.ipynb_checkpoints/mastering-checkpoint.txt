@@ -1,0 +1,80 @@
+Chapter 1:
+
+The topics we will be covering in this chapter are as follows:
+
+. Detecting edges using image hashing and filtering.
+. Extracting features from an image.
+. Object detection using Contours and the HOG detector.
+. An overview of TensorFlow, its ecosystem, and installation.
+
+ - Perpetual hash (phash): A cosine transformation.
+ - Difference hash (dhash): The difference between adjacent pixels.
+ 
+1. Using a Bayer filter for color pattern formation.
+2. Creating an image vector.
+3. Transforming the image.
+4. Linear filtering—convolution with kernels.
+5. Mixing Gaussian and Laplacian filters.
+6. Detecting edges in the image.
+
+Image smoothing
+
+. A mean filter
+. A median filter 
+. A Gaussian filter
+
+Image Gradient
+Image sharpening
+
+Edges Detections:
+- Sobel edge detector
+- Canny edge detector
+
+
+Chapter 2:
+
+Content Recognition LBP:
+
+- Processing images using LBP
+- Applying LBP to texture recognition
+- Matching Face color with foundation - LBP and its limitaions
+- Matching face color with foudantion color - color matching.
+
+LBO is grayscale image thresholding operation that´s used to classify images based on distinct patterns.
+Compared the neighborhood pixel value with that of the center pixel value.
+
+Chapter 3:
+....
+
+
+Chapter 7:
+
+Semantic segmentation
+
+DeepLab - https://arxiv.org/abs/1802.02611
+
+The foundational architecture of semantic segmentation is based on the encoder-decoder network.
+
+Atrous convolution - increases features maps images of convolution.
+
+Style Transfer Learning
+
+chapter 8:
+
+Action recogntion:
+- OpenPose
+- Stacked Hourglass
+- PostNet
+
+Learned how to predict keys points using OpenCV and TensorFlow.
+How to evaluate human poses in a bronwer and use a webcam for real time key points.
+
+
+chapter 9:
+
+R-CNN, single-shot detector (SSD), region-based fully convolutional networks (R-FCNs), and Mask R-CNN:
+
+Detecting Objects Using Google Cloud
+
+Detecting objects using TensorFlow Hub
+
